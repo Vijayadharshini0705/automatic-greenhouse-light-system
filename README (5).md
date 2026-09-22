@@ -4,7 +4,7 @@
 
 Plants in a greenhouse need sufficient light for healthy growth. During low-light conditions, plants may not receive enough light. A simple automatic system is needed to detect low light and switch ON an LED.  
 **2\. Components Used**  
-**![][image1]**  
+![image1](Component2.jpg)
 **3\. Working Principle**
 
        ☀️ LIGHT  
@@ -21,7 +21,7 @@ Plants in a greenhouse need sufficient light for healthy growth. During low-ligh
   LED OFF      LED ON
 
 **4.Circuit diagram**  
-**![][image2]**  
+![image2](Circuit2.jpg)
 **4\. Application**
 
 This concept can be demonstrated as a mini smart greenhouse lighting system, where the LED represents the artificial grow light.
@@ -36,7 +36,7 @@ When light intensity is low: LED turns ON.
 
  The switching level can be adjusted using the LDR module's potentiometer.
 
-**![][image3]**  
+![image3](Result2.jpg)
 **6\. Conclusion**
 
 The project demonstrates how an LDR sensor can automatically control lighting based on environmental conditions. It is a simple, low-cost application of sensors and can be used as a basic model for smart agriculture.  
